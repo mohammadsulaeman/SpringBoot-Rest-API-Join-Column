@@ -1,7 +1,5 @@
 # SpringBoot Rest API Join Column
 Belajar Membuat Spring Boot REST API untuk Join  antar Column 
-# Kolom Yang Di Join <br>
-![Screenshot 2023-08-08 091643](https://github.com/mohammadsulaeman/springbootjoincolumn/assets/68136244/8b61e2ef-2481-4fee-8588-545e3beb9744) <br>
 # API SPEC
 ## Create Department
   Method : POST <br>
